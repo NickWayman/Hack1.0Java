@@ -13,5 +13,7 @@ public class Hello {
 		System.out.println("Nicholas Wayman");
 		System.out.println("My major is Chemical Engineering!");
 		System.out.println("My minors are in physics and computer science");
+		System.out.println("Andrew Duweling");
+		System.out.println("Computer Engineering");
 	}
 }
